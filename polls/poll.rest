@@ -1,0 +1,9 @@
+GET http://127.0.0.1:8002/polls/ HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQ5NjUyOTEyLCJpYXQiOjE3NDk2NTI2MTIsImp0aSI6IjYxZWJlZmU2Njc0NDQwZjE4NmY1NjUxNGMxZGNjNDhmIiwidXNlcl9pZCI6MX0.3a4pEC5VWmVraZWi533f7l2rDwqPamT1tbhTCBhxBog
+
+###
+
+GET http://127.0.0.1:8001/groups/ HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQ5NjQ5OTEzLCJpYXQiOjE3NDk2NDk2MTMsImp0aSI6ImFhZTAwODg0OGMyZTQ5OWJiMzU1NWY2ZjQ0YWUyMDE0IiwidXNlcl9pZCI6MX0.Fg8R20Q-ilECjFkG01a6ocKOjUdRj4C6Qix3-01wGoY
